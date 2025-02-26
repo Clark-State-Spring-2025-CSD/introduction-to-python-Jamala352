@@ -12,3 +12,4 @@ theft = 2
 remaining = cakes - THEFT
 
 print(f"{thehello}, {theWorld}. There were {10cakes} cakes, but Lex Luthor stole {theft}. Now there's {remaining}. And that's sad.")
+"Hello", "world". There were 10 cakes, but Lex Luthor stole 2. Now there's 8. And that's sad.
